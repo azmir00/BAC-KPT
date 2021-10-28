@@ -1,0 +1,36 @@
+
+.tajuk{
+    background-color: khaki;
+    height: 500px;
+    
+}
+.tajuk h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.kad{
+    word-wrap: break-word;
+    text-align: center;
+    box-shadow: 8px 9px 12px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 8px 9px 12px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 8px 9px 12px -7px rgba(0,0,0,0.75);
+}
+
+.kad-1{
+    background-color: antiquewhite;
+}
+
+.kad-2{
+    background-color:rgb(133, 83, 106);
+}
+
+.kad-3{
+    background-color:rgb(136, 127, 6);
+}
+
+.topik{
+    word-wrap: break-word;
+}
